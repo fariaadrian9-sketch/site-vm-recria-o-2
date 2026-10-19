@@ -311,6 +311,9 @@ export default function HomePage() {
                 <h2 className="mt-4 text-3xl font-black text-white md:text-5xl">
                   Vamos dar vida à sua próxima presença digital.
                 </h2>
+                <p className="mt-4 text-base text-slate-300">
+                  Rua Vinte e um de setembro, 697 - Centro, São Mateus do Sul - PR
+                </p>
               </div>
 
               <a
