@@ -1,0 +1,8 @@
+{
+  "title": "Figma Make App",
+  "description": "A React + Vite + Tailwind starter app",
+  "language": "en",
+  "robots": {
+    "index": true
+  }
+}
